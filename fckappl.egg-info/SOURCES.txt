@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+fckappl/__init__.py
+fckappl/__main__.py
+fckappl.egg-info/PKG-INFO
+fckappl.egg-info/SOURCES.txt
+fckappl.egg-info/dependency_links.txt
+fckappl.egg-info/entry_points.txt
+fckappl.egg-info/requires.txt
+fckappl.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_install.py

@@ -1,0 +1,2 @@
+[console_scripts]
+fckappl = fckappl.__main__:app

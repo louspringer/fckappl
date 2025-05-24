@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: fckappl
+Version: 0.1.0
+Summary: A package to mitigate macOS's annoying habit of flipping configuration switches unnecessarily. Use this if your last known good is better than Apple's erroneous and disruptive last known good.
+Author-email: Lou Springer <lou@louspinger.com>
+License-File: LICENSE
+Requires-Dist: watchdog
+Dynamic: license-file
